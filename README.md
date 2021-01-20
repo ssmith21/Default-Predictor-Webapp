@@ -32,4 +32,6 @@ https://www.youtube.com/watch?v=M2BRPeSJNYo&feature=youtu.be&ab_channel=SeanSmit
 
 * https://ccdefaultapi.herokuapp.com/
 
-[Click on me to make a get request to the API with some random features](https://ccdefaultapi.herokuapp.com/?limitbal=3445345&gender=2&education=2&marriage=1&age=55&pay0=1&pay1=1&pay2=1&pay3=1&pay4=1&pay5=1&billamt1=1&billamt2=1&billamt3=1&billamt4=1&billamt5=1&billamt6=1&payamt1=1&payamt2=1&payamt3=1&payamt4=1&payamt5=1&payamt6=1)
+[Click on me to make a get request to the API with some random feature values](https://ccdefaultapi.herokuapp.com/?limitbal=3445345&gender=2&education=2&marriage=1&age=55&pay0=1&pay1=1&pay2=1&pay3=1&pay4=1&pay5=1&billamt1=1&billamt2=1&billamt3=1&billamt4=1&billamt5=1&billamt6=1&payamt1=1&payamt2=1&payamt3=1&payamt4=1&payamt5=1&payamt6=1)
+
+[Click on me to make a get request to the API with some INVALID feature values](https://ccdefaultapi.herokuapp.com/?limitbal=3445345&gender=2&education=2&marriage=1&age=55&pay0=1&pay1=1&pay2=1&pay3=1&pay4=1&pay5=1&billamt1=1&billamt2=1&billamt3=1&billamt4=1&billamt5=1&billamt6=1&payamt1=1&payamt2=1&payamt3=1&payamt4=1&payamt5=1&payamt6=1)
