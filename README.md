@@ -1,5 +1,5 @@
 # DefaultPredictorML
-Neural network webapp which predicts the probability of someone defaulting their credit card!
+Neural network webapp which predicts the probability of someone defaulting their credit card! Please visit the webapp to try out the calculator and read more about the project.
 
 ## https://ccdefaultpredictor.herokuapp.com/
 
