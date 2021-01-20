@@ -8,12 +8,15 @@ Video demonstration of the backend working with the frontend:
 https://www.youtube.com/watch?v=M2BRPeSJNYo&feature=youtu.be&ab_channel=SeanSmith
 
 
-A machine learning application which predicts the probability of an individual defaulting on their credit card next month based on qualitative and financial data from the individual. 
+# Project overview
 
-Uses a custom deep neural network implemented with Tensorflow saved as an h5 file in the backend to make predictions from GET requests.
+..* Webapp which predicts the chance of an individual's credit card defaulting next month.
 
-Front-end implemented with VUEjs.
+..* Deployed with a tensorflow neural network in Flask API backend hosted on Heroku, achieves *82.1% binary validation accuracy* on whether an individual will default or not.
 
-Back-end is a custom API which uses the neural network, implemented with FLASK.
+..* Frontend created with VUEjs Framework hosted on Heroku seperately from the backend.
 
-Deployed frontend and backend on two seperate heroku applications.
+..* Performed feature engineering, analyzed how each feature affects the chance of defaulting, explored the data with clustering and PCA reduction and presented my findings from the Jupyter notebook on the webapp.
+
+..* Tested/optimized 5 different supervised learning algorithms.
+
